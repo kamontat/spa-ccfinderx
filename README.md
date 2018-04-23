@@ -15,3 +15,8 @@ Use [ccfinderX](https://github.com/petersenna/ccfinderx-core) to finding duplica
 2. [ccfinderx.xml](./ccfinderx.xml) is formatting output (.out) to .xml file
 3. [dups](./dups) make a list of files that are likely to be very similar
 
+# Matrics
+
+1. [file-matrics](./file-matrics) is calculation of file metrics
+2. [clone-matrics](./clone-matrics) is calculation of clone metrics
+3. [line-matrics](./line-matrics) is calculation of line metrics
