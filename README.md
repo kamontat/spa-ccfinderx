@@ -17,6 +17,6 @@ Use [ccfinderX](https://github.com/petersenna/ccfinderx-core) to finding duplica
 
 # Matrics
 
-1. [file-matrics](./file-matrics) is calculation of file metrics
-2. [clone-matrics](./clone-matrics) is calculation of clone metrics
-3. [line-matrics](./line-matrics) is calculation of line metrics
+1. [file-matrics](./file-matrics.csv) is calculation of file metrics
+2. [clone-matrics](./clone-matrics.csv) is calculation of clone metrics
+3. [line-matrics](./line-matrics.csv) is calculation of line metrics
