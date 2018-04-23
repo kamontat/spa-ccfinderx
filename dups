@@ -1,0 +1,11 @@
+90,/usr/repo/tests/fuzzer.c,/usr/repo/tests/frametest.c
+55,/usr/repo/examples/blockStreaming_ringBuffer.c,/usr/repo/examples/HCStreaming_ringBuffer.c
+28,/usr/repo/examples/blockStreaming_ringBuffer.c,/usr/repo/examples/blockStreaming_lineByLine.c
+27,/usr/repo/examples/frameCompress.c,/usr/repo/examples/blockStreaming_lineByLine.c
+24,/usr/repo/programs/bench.c,/usr/repo/tests/fullbench.c
+13,/usr/repo/examples/blockStreaming_lineByLine.c,/usr/repo/examples/blockStreaming_doubleBuffer.c
+11,/usr/repo/examples/frameCompress.c,/usr/repo/examples/blockStreaming_ringBuffer.c
+11,/usr/repo/examples/frameCompress.c,/usr/repo/examples/blockStreaming_doubleBuffer.c
+11,/usr/repo/examples/blockStreaming_ringBuffer.c,/usr/repo/examples/blockStreaming_doubleBuffer.c
+10,/usr/repo/examples/blockStreaming_lineByLine.c,/usr/repo/examples/HCStreaming_ringBuffer.c
+Using: /tmp/ccfinderx.xml
